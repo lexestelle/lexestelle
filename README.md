@@ -2,6 +2,23 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<!-- Project 1: Secure Small Office Network -->
+<div class="project">
+  <h3>Secure Small Office Network – Blue Team Lab</h3>
+  <p>
+    A beginner-friendly Cisco Packet Tracer lab where I built a small office network and practiced blue team skills:
+    VLAN segmentation, ACLs for traffic control, and switch port security to prevent unauthorized access.
+  </p>
+  <ul>
+    <li>Separated users into VLANs (Admin, Employee, Guest)</li>
+    <li>Configured inter-VLAN routing with a router-on-a-stick</li>
+    <li>Applied ACLs to block guest access to admin PCs</li>
+    <li>Enabled port security to prevent rogue devices</li>
+  </ul>
+  <p>
+    <a href="https://github.com/lexestelle/cisco-blue-team-project" target="_blank">View Project on GitHub</a>
+  </p>
+</div>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
