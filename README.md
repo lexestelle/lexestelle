@@ -19,6 +19,24 @@
     <a href="https://github.com/lexestelle/cisco-blue-team-project" target="_blank">View Project on GitHub</a>
   </p>
 </div>
+<!-- Project 2: Zendesk Simulated Help Desk -->
+<div class="project">
+  <h3>Zendesk Simulated Help Desk – IT Support Practice</h3>
+  <p>
+    A hands-on simulated help desk environment where I managed and resolved IT support tickets using Zendesk:
+    creating, triaging, and documenting tickets while communicating with end users professionally.
+  </p>
+  <ul>
+    <li>Handled incidents, service requests, and user questions</li>
+    <li>Documented troubleshooting steps in internal notes</li>
+    <li>Managed ticket priorities and statuses for workflow efficiency</li>
+    <li>Practiced end-user communication with clear, professional responses</li>
+  </ul>
+  <p>
+    <a href="https://github.com/lexestelle/zendesk-simulated-helpdesk" target="_blank">View Project on GitHub</a>
+  </p>
+</div>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
