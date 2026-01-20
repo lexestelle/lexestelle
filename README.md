@@ -36,7 +36,22 @@
     <a href="https://github.com/lexestelle/zendesk-simulated-helpdesk" target="_blank">View Project on GitHub</a>
   </p>
 </div>
-
+<!-- Project 3: Python Command Line Math & Security Program -->
+<div class="project">
+  <h3>Python Command Line Math & Security Program</h3>
+  <p>
+    A menu-driven Python program that demonstrates math and security concepts. Users can generate secure passwords, calculate percentages, find days until a target date, solve triangles using the law of cosines, and compute cylinder volumes.
+  </p>
+  <ul>
+    <li>Menu-driven program with input validation for smooth user experience</li>
+    <li>Secure password generation using Python's <code>secrets</code> and <code>string</code> modules</li>
+    <li>Practical math applications: percentages, law of cosines, cylinder volume</li>
+    <li>Date calculations with the <code>datetime</code> module</li>
+  </ul>
+  <p>
+    <a href="https://github.com/lexestelle/python-mathsecurity-menu" target="_blank">View Project on GitHub</a>
+  </p>
+</div>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
